@@ -10,5 +10,3 @@ echo "hello world";
 echo "secound line";
 
 echo "stam";
-
-
